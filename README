@@ -1,0 +1,10 @@
+Matt Ely (811-653-312)
+
+    Instructions on how to compile and run code:
+
+    - To compile, type: "make"
+
+    - To run, type: "make run"
+    - NOTE: test case files 1-7 will all be tested when 'make run' is entered.
+
+    - To clean, type: "make clean"
